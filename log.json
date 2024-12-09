@@ -1,0 +1,103 @@
+{
+    "U12928": {
+        "stages": [
+            {
+                "stage": "Interest Summarization",
+                "input": [
+                    "Something fishy happened in that Texans-Chiefs call",
+                    "High school soccer: Chloe DeLyser sets record for most goals scored",
+                    "Federal judge overturns ObamaCare transgender protections",
+                    "Woman, suspect dead at 'Tarzan' actor Ron Ely's California residence",
+                    "Photo of emotional nurse after 'particularly hard day' goes viral",
+                    "An airline pilot reveals the meanings of 23 code words passengers don't understand",
+                    "There's a mouse hiding among mushrooms in this viral brainteaser. Can you spot it?",
+                    "Marines correct 74-year-old Iwo Jima error",
+                    "Missing Minnesota boy, 6, and his dog, found in cornfield by drone with thermal camera",
+                    "NFL players who should be traded before the deadline",
+                    "California sheriff's deputy shot dead, ride-along injured in 'active shooter incident,' officials say",
+                    "Newly Signed Raven Makes Comeback After Losing Job, Ring",
+                    "Potential trade targets for all 32 NFL teams at the 2019 deadline, from A.J. Green to Trent Williams",
+                    "Former AP civil rights reporter Kathryn Johnson dies",
+                    "'Angel' car saves Arizona family after smashing into suspected drunk driver running red light, video shows",
+                    "Katie Holmes Looked Incredible in a Black Dress and Sheer Tights in New York City",
+                    "Astros fire assistant GM for 'inappropriate comments'",
+                    "Pollution around the world: 30 shocking photos",
+                    "Mitch McConnell snubbed by Elijah Cummings' pallbearer in handshake line at U.S. Capitol ceremony",
+                    "Russian woman who admitted being secret agent out of prison",
+                    "In Trump pitch at black college, its students were largely absent",
+                    "These 50+ Last-Minute Halloween Costumes Are Perfect for Procrastinators",
+                    "Homeowner says a mystery object damaged his house. It didn't fall from a plane, FAA says",
+                    "Chasing history: Tiger Woods eyes record win No. 82 at Zozo Championship",
+                    "Fact check: Trump falsely claims his 2000 book demanded the killing of Osama bin Laden",
+                    "Dominance: Tiger Woods ties Sam Snead's record with win No. 82 at Zozo Championship",
+                    "Fox News contributor: 'Most likely' outcome is Trump doesn't run in 2020",
+                    "MLB bans women who flashed their chests behind home plate during Game 5 of World Series",
+                    "Report: Adidas working on buyout of $25 million John Wall deal amid injuries",
+                    "Oddball, Orphaned, and Overlooked Trucks",
+                    "Report backs claims JHA president had sex with employees; says no sexual harassment occurred",
+                    "Former Fox News hosts want out of non-disclosure agreements",
+                    "Trent Williams fails physical, experiencing discomfort with helmet",
+                    "Former NBA first-round pick Jim Farmer arrested in sex sting operation",
+                    "Lupita Nyong'o Reprises Her 'Us' Character Red to Terrify Fans at Halloween Horror Nights",
+                    "What's a cofferdam? It's an option to remove the Golden Ray from St. Simons Sound",
+                    "If this is the GOP's best Trump defense, they're in serious trouble",
+                    "Tom Draper, Black Music Industry Pioneer, Dies at 79",
+                    "The News In Cartoons",
+                    "The House voted for an impeachment inquiry, and Republicans failed a test of character",
+                    "Should You Consider Buying A Used Rental Motorhome?",
+                    "Chevy Says This Isn't a Mid-Engine C8 Corvette Hybrid Prototype",
+                    "Patriots wanted a test. Now, they need some answers",
+                    "Queen Elizabeth Finally Had Her Dream Photoshoot, Thanks to Royal Dresser Angela Kelly",
+                    "Potential Florida State football coaching targets",
+                    "Why You Should Always Order Ginger Ale on a Flight",
+                    "Opinion: Browns' Freddie Kitchens, Jets' Adam Gase could be headed for one-and-done territory",
+                    "Pregnant U.S. women's soccer star Alex Morgan still plans to play in 2020 Summer Olympics",
+                    "Woman delivered a speech to NASA wearing sequin dress so girls would see a 'sparkly scientist'",
+                    "These Are the Top 10 Chicken Chains in America"
+                ],
+                "prompt": "A user's clicked news are:\nSomething fishy happened in that Texans-Chiefs call\nHigh school soccer: Chloe DeLyser sets record for most goals scored\nFederal judge overturns ObamaCare transgender protections\nWoman, suspect dead at 'Tarzan' actor Ron Ely's California residence\nPhoto of emotional nurse after 'particularly hard day' goes viral\nAn airline pilot reveals the meanings of 23 code words passengers don't understand\nThere's a mouse hiding among mushrooms in this viral brainteaser. Can you spot it?\nMarines correct 74-year-old Iwo Jima error\nMissing Minnesota boy, 6, and his dog, found in cornfield by drone with thermal camera\nNFL players who should be traded before the deadline\nCalifornia sheriff's deputy shot dead, ride-along injured in 'active shooter incident,' officials say\nNewly Signed Raven Makes Comeback After Losing Job, Ring\nPotential trade targets for all 32 NFL teams at the 2019 deadline, from A.J. Green to Trent Williams\nFormer AP civil rights reporter Kathryn Johnson dies\n'Angel' car saves Arizona family after smashing into suspected drunk driver running red light, video shows\nKatie Holmes Looked Incredible in a Black Dress and Sheer Tights in New York City\nAstros fire assistant GM for 'inappropriate comments'\nPollution around the world: 30 shocking photos\nMitch McConnell snubbed by Elijah Cummings' pallbearer in handshake line at U.S. Capitol ceremony\nRussian woman who admitted being secret agent out of prison\nIn Trump pitch at black college, its students were largely absent\nThese 50+ Last-Minute Halloween Costumes Are Perfect for Procrastinators\nHomeowner says a mystery object damaged his house. It didn't fall from a plane, FAA says\nChasing history: Tiger Woods eyes record win No. 82 at Zozo Championship\nFact check: Trump falsely claims his 2000 book demanded the killing of Osama bin Laden\nDominance: Tiger Woods ties Sam Snead's record with win No. 82 at Zozo Championship\nFox News contributor: 'Most likely' outcome is Trump doesn't run in 2020\nMLB bans women who flashed their chests behind home plate during Game 5 of World Series\nReport: Adidas working on buyout of $25 million John Wall deal amid injuries\nOddball, Orphaned, and Overlooked Trucks\nReport backs claims JHA president had sex with employees; says no sexual harassment occurred\nFormer Fox News hosts want out of non-disclosure agreements\nTrent Williams fails physical, experiencing discomfort with helmet\nFormer NBA first-round pick Jim Farmer arrested in sex sting operation\nLupita Nyong'o Reprises Her 'Us' Character Red to Terrify Fans at Halloween Horror Nights\nWhat's a cofferdam? It's an option to remove the Golden Ray from St. Simons Sound\nIf this is the GOP's best Trump defense, they're in serious trouble\nTom Draper, Black Music Industry Pioneer, Dies at 79\nThe News In Cartoons\nThe House voted for an impeachment inquiry, and Republicans failed a test of character\nShould You Consider Buying A Used Rental Motorhome?\nChevy Says This Isn't a Mid-Engine C8 Corvette Hybrid Prototype\nPatriots wanted a test. Now, they need some answers\nQueen Elizabeth Finally Had Her Dream Photoshoot, Thanks to Royal Dresser Angela Kelly\nPotential Florida State football coaching targets\nWhy You Should Always Order Ginger Ale on a Flight\nOpinion: Browns' Freddie Kitchens, Jets' Adam Gase could be headed for one-and-done territory\nPregnant U.S. women's soccer star Alex Morgan still plans to play in 2020 Summer Olympics\nWoman delivered a speech to NASA wearing sequin dress so girls would see a 'sparkly scientist'\nThese Are the Top 10 Chicken Chains in America\nSummarize the interested topics, from the most important to the least important.",
+                "output": "Based on the user's clicked news, the most important topics for them are:\n\n1. Sports (soccer, NFL, MLB, Tiger Woods)\n2. Breaking news (shootings, court decisions, accidents)\n3. Entertainment (Katie Holmes, Halloween costumes, horror movies)\n4. Politics (impeachment inquiry, Trump, Mitch McConnell)\n5. Technology (used rental motorhomes, mid-engine Corvette)\n6. Miscellaneous (nurse photo, brainteaser, chicken chains)\n\nIt is important to note that the user seems to have a wide range of interests and may not have a specific focus."
+            },
+            {
+                "stage": "Category Selection",
+                "input": [],
+                "prompt": "Select some topic categories based on the user's interest from the provided list from the most important to the least important without explanation:\n.",
+                "output": "1. Sports\n2. Breaking news\n3. Entertainment\n4. Politics\n5. Technology\n6. Miscellaneous",
+                "category_list": [
+                    "sports",
+                    "breakingnews",
+                    "entertainment",
+                    "politics",
+                    "technology",
+                    "miscellaneous"
+                ]
+            },
+            {
+                "stage": "Subcategory Selection",
+                "input": [
+                    "sports",
+                    "breakingnews",
+                    "entertainment",
+                    "politics",
+                    "technology"
+                ],
+                "prompt": "Provide a ranked list of top 5 subcategories based on the user's interest from the provided list, without offering any explanations. Please do not change the format of titles during the output process.\nHere is the category and subcategory list:\n\n",
+                "output": "1. Sports\n   - Soccer\n   - NFL\n   - MLB\n   - Tiger Woods\n2. Breaking news\n   - Shootings\n   - Court decisions\n   - Accidents\n3. Entertainment\n   - Katie Holmes\n   - Halloween costumes\n   - Horror movies\n4. Politics\n   - Impeachment inquiry\n   - Trump\n   - Mitch McConnell\n5. Technology\n   - Used rental motorhomes\n   - Mid-engine Corvette",
+                "subcategory_list": [
+                    "sports",
+                    "breakingnews",
+                    "entertainment",
+                    "politics",
+                    "technology"
+                ]
+            },
+            {
+                "stage": "Evaluation",
+                "input": "U12928",
+                "prompt": "",
+                "output": "",
+                "recall_rate": 0.0
+            }
+        ]
+    }
+}
