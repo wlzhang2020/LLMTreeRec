@@ -4,6 +4,11 @@
 
 This is the code repository for paper "LLMTreeRec: A Tree-based Large Language Model Framework for Cold-start Recommendation"
 
+## Dataset
+Please download the datasets and save them to the `data` folder.
+[MIND Dataset](https://msnews.github.io/)
+[Amazon Review Dataset](https://jmcauley.ucsd.edu/data/amazon/)
+
 ## Setup
 
 ### 1. Obtain OpenAI API Keys
